@@ -1,0 +1,38 @@
+body {
+  font-size: 24px;
+  line-height: 180%;
+}
+
+#global-container {
+  width: 800px;
+  margin: 15px auto;
+}
+
+#title-container {
+  width: 100%;
+  color: #fff;
+  background-color: #333;
+  padding: 40px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+a, a:link {
+  color: #5bb;
+}
+
+a:visited {
+  color: #6cc;
+}
+
+a:hover {
+  color: #333;
+}
